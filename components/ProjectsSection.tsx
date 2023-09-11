@@ -10,8 +10,15 @@ const projects = [
     description:
       "Analyzing an sEEG dataset to identify which areas of the brain carry the most information to predict behavior in a decision making task.",
     image: "/neural_decoding.jpg",
-    github: "https://github.com/ncsl/lda-war-game",
+    github: "https://github.com/ncsl/decoding-decision-making",
     link: "",
+  },
+  {
+    name: "Dan's Crown",
+    description: "Contributed to the development of an assistive headband that would help an artist living with cerebral palsy to create digital art more efficiently.",
+    image: "/dans-crown.jpg",
+    github: "",
+    link: "https://hub.jhu.edu/2023/05/02/freedom-of-expression-through-engineering/",
   },
   {
     name: "Assistive Violin Bow Grip",
